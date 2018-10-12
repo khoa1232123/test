@@ -1,0 +1,22 @@
+/**
+* Theme Name:  Zoo Theme
+* Theme URI:   https://zootemplate.com
+* Author:      Zootemplate
+* Version:     3.0.0
+* Author URI:  https://www.zootemplate.com/contact-us
+* License:     GNU General Public License v2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* Description: An intuitive premium WordPress theme.
+* Text Domain: zootemplate
+* Domain Path: /languages
+**/
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+.btn {
+  text-decoration: none;
+  color: #252525; }
+
+/*# sourceMappingURL=style.css.map */
